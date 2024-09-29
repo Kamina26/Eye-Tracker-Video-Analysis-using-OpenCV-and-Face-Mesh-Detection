@@ -1,0 +1,2 @@
+# Eye-Tracker-Video-Analysis-using-OpenCV-and-Face-Mesh-Detection
+This repository contains a Python script for eye tracking using OpenCV and the cvzone Face Mesh Detection module. The script processes video files to detect the position of a person's left eye and tracks the iris movements to classify gaze direction as "left," "right," or "center." It also supports saving the processed video output.
